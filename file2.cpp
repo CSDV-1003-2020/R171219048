@@ -8,7 +8,7 @@ int main()
     cout << "Enter a number: ";
     cin >> number;
 
-    cout << "You entered " << number;    
+    cout << "anyone will entered " << number;    
     return 0;
 }
 
